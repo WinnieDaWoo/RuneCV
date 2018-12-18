@@ -979,3 +979,1326 @@
 2018-12-05 22:12:42.832690: Chopping started, now idling
 2018-12-05 22:12:45.865189: Inventory full 
 2018-12-05 22:12:47.283371: Depositing Inventory 
+2018-12-10 01:03:50.326910: Starting OakBot 
+2018-12-10 01:03:51.891688: Depositing Inventory 
+2018-12-10 01:03:58.607555: STARTING LOOP #0
+2018-12-10 01:03:59.684852: Moving to chop position
+2018-12-10 01:04:08.290603: Starting OakBot 
+2018-12-10 01:04:10.288959: Depositing Inventory 
+2018-12-10 01:04:16.487489: STARTING LOOP #0
+2018-12-10 01:04:17.302607: Moving to chop position
+2018-12-10 01:05:02.182615: Starting OakBot 
+2018-12-10 01:05:04.040390: Depositing Inventory 
+2018-12-10 01:05:10.916136: STARTING LOOP #0
+2018-12-10 01:05:11.828093: Moving to chop position
+2018-12-10 01:05:20.200709: Chopping started, now idling
+2018-12-10 01:05:34.656942: Tree is cut
+2018-12-10 01:05:44.256011: Chopping started, now idling
+2018-12-10 01:05:46.317430: Tree is cut
+2018-12-10 01:05:55.329530: Chopping started, now idling
+2018-12-10 01:05:58.127810: Inventory full 
+2018-12-10 01:05:59.815183: Depositing Inventory 
+2018-12-10 01:06:38.361510: Starting OakBot 
+2018-12-10 01:06:39.852446: Depositing Inventory 
+2018-12-10 01:06:46.096184: STARTING LOOP #0
+2018-12-10 01:06:47.076240: Moving to chop position
+2018-12-10 01:06:55.479685: Chopping started, now idling
+2018-12-10 01:06:58.825310: Tree is cut
+2018-12-10 01:07:08.585542: Chopping started, now idling
+2018-12-10 01:07:19.286477: Tree is cut
+2018-12-10 01:07:29.041134: Chopping started, now idling
+2018-12-10 01:07:37.126078: Chopping started, now idling
+2018-12-10 01:07:39.282623: Chopping started, now idling
+2018-12-10 01:07:42.763355: Tree is cut
+2018-12-10 01:07:51.537124: Chopping started, now idling
+2018-12-10 01:08:23.967062: Tree is cut
+2018-12-10 01:08:33.334273: Chopping started, now idling
+2018-12-10 01:08:53.407006: Inventory full 
+2018-12-10 01:08:54.669505: Depositing Inventory 
+2018-12-10 01:09:05.340141: Loops completed: 1
+2018-12-10 01:09:05.340176: Loop time: 139.244004965 seconds
+2018-12-10 01:09:05.345426: STARTING LOOP #1
+2018-12-10 01:09:06.401670: Moving to chop position
+2018-12-10 01:09:15.272975: Chopping started, now idling
+2018-12-10 01:09:26.032988: Tree is cut
+2018-12-10 01:09:35.268152: Chopping started, now idling
+2018-12-10 01:10:07.109130: Tree is cut
+2018-12-10 01:10:15.100193: Chopping started, now idling
+2018-12-10 01:11:14.381142: Tree is cut
+2018-12-10 01:11:23.043176: Chopping started, now idling
+2018-12-10 01:11:34.266543: Tree is cut
+2018-12-10 01:11:43.196650: Chopping started, now idling
+2018-12-10 01:11:45.990423: Inventory full 
+2018-12-10 01:11:47.707046: Depositing Inventory 
+2018-12-10 01:11:58.497249: Loops completed: 2
+2018-12-10 01:11:58.497330: Loop time: 173.151913881 seconds
+2018-12-10 01:11:58.497368: STARTING LOOP #2
+2018-12-10 01:11:59.321214: Moving to chop position
+2018-12-10 01:12:07.240601: Chopping started, now idling
+2018-12-10 01:12:44.319807: Tree is cut
+2018-12-10 01:12:52.943521: Chopping started, now idling
+2018-12-10 01:13:08.530461: Tree is cut
+2018-12-10 01:13:18.770676: Chopping started, now idling
+2018-12-10 01:13:24.631830: Tree is cut
+2018-12-10 01:13:29.994972: Chopping started, now idling
+2018-12-10 01:13:30.887637: Tree is cut
+2018-12-10 01:13:33.712888: Chopping started, now idling
+2018-12-10 01:13:46.152645: Inventory full 
+2018-12-10 01:13:47.497181: Depositing Inventory 
+2018-12-10 01:13:59.661382: Loops completed: 3
+2018-12-10 01:13:59.661418: Loop time: 121.164056063 seconds
+2018-12-10 01:13:59.661436: STARTING LOOP #3
+2018-12-10 01:14:00.705667: Moving to chop position
+2018-12-10 01:14:08.360401: Chopping started, now idling
+2018-12-10 01:14:40.775492: Tree is cut
+2018-12-10 01:14:50.123828: Chopping started, now idling
+2018-12-10 01:14:53.580638: Tree is cut
+2018-12-10 01:15:02.724359: Chopping started, now idling
+2018-12-10 01:15:08.633312: Tree is cut
+2018-12-10 01:15:18.192758: Chopping started, now idling
+2018-12-10 01:15:26.620635: Tree is cut
+2018-12-10 01:15:35.867033: Chopping started, now idling
+2018-12-10 01:15:43.240110: Tree is cut
+2018-12-10 01:15:52.570334: Chopping started, now idling
+2018-12-10 01:16:21.850331: Inventory full 
+2018-12-10 01:16:23.675467: Depositing Inventory 
+2018-12-10 01:16:34.451597: Loops completed: 4
+2018-12-10 01:16:34.451629: Loop time: 154.790199041 seconds
+2018-12-10 01:16:34.451649: STARTING LOOP #4
+2018-12-10 01:16:35.547686: Moving to chop position
+2018-12-10 01:16:43.828481: Chopping started, now idling
+2018-12-10 01:16:50.033022: Tree is cut
+2018-12-10 01:16:59.707801: Chopping started, now idling
+2018-12-10 01:17:05.494624: Tree is cut
+2018-12-10 01:17:14.824494: Chopping started, now idling
+2018-12-10 01:17:28.042293: Tree is cut
+2018-12-10 01:17:36.006496: Chopping started, now idling
+2018-12-10 01:17:47.390368: Tree is cut
+2018-12-10 01:17:56.602087: Chopping started, now idling
+2018-12-10 01:18:07.692560: Tree is cut
+2018-12-10 01:18:17.056774: Chopping started, now idling
+2018-12-10 01:18:30.389541: Tree is cut
+2018-12-10 01:18:39.409898: Chopping started, now idling
+2018-12-10 01:18:52.459356: Tree is cut
+2018-12-10 01:19:01.982295: Chopping started, now idling
+2018-12-10 01:19:09.795523: Inventory full 
+2018-12-10 01:19:11.498120: Depositing Inventory 
+2018-12-10 01:19:22.701906: Loops completed: 5
+2018-12-10 01:19:22.701950: Loop time: 168.250305891 seconds
+2018-12-10 01:19:22.701975: STARTING LOOP #5
+2018-12-10 01:19:23.841584: Moving to chop position
+2018-12-10 01:19:32.338271: Chopping started, now idling
+2018-12-10 01:20:07.413439: Tree is cut
+2018-12-10 01:20:16.682809: Chopping started, now idling
+2018-12-10 01:20:32.323564: Tree is cut
+2018-12-10 01:20:41.735361: Chopping started, now idling
+2018-12-10 01:20:57.521341: Tree is cut
+2018-12-10 01:21:07.058702: Chopping started, now idling
+2018-12-10 01:21:10.257357: Tree is cut
+2018-12-10 01:21:19.763246: Chopping started, now idling
+2018-12-10 01:21:32.700408: Inventory full 
+2018-12-10 01:21:34.223272: Depositing Inventory 
+2018-12-10 01:21:44.902306: Loops completed: 6
+2018-12-10 01:21:44.902405: Loop time: 142.200442076 seconds
+2018-12-10 01:21:44.902467: STARTING LOOP #6
+2018-12-10 01:21:46.065663: Moving to chop position
+2018-12-10 01:21:54.000055: Chopping started, now idling
+2018-12-10 01:21:57.679061: Tree is cut
+2018-12-10 01:22:06.818545: Chopping started, now idling
+2018-12-10 01:22:12.833337: Tree is cut
+2018-12-10 01:22:21.639804: Chopping started, now idling
+2018-12-10 01:22:51.813733: Tree is cut
+2018-12-10 01:23:00.733356: Chopping started, now idling
+2018-12-10 01:23:26.436001: Tree is cut
+2018-12-10 01:23:35.095975: Chopping started, now idling
+2018-12-10 01:23:43.466143: Tree is cut
+2018-12-10 01:23:52.225506: Chopping started, now idling
+2018-12-10 01:23:56.391412: Inventory full 
+2018-12-10 01:23:58.147370: Depositing Inventory 
+2018-12-10 01:24:09.280322: Loops completed: 7
+2018-12-10 01:24:09.280357: Loop time: 144.377897978 seconds
+2018-12-10 01:24:09.280375: STARTING LOOP #7
+2018-12-10 01:24:10.578825: Moving to chop position
+2018-12-10 01:24:18.769078: Chopping started, now idling
+2018-12-10 01:25:19.213139: Tree is cut
+2018-12-10 01:25:29.371747: Chopping started, now idling
+2018-12-10 01:25:39.349511: Inventory full 
+2018-12-10 01:25:41.400765: Depositing Inventory 
+2018-12-10 01:25:53.187312: Loops completed: 8
+2018-12-10 01:25:53.187351: Loop time: 103.906980991 seconds
+2018-12-10 01:25:53.187371: STARTING LOOP #8
+2018-12-10 01:25:54.148768: Moving to chop position
+2018-12-10 01:26:02.479493: Chopping started, now idling
+2018-12-10 01:26:05.975828: Tree is cut
+2018-12-10 01:26:15.560019: Chopping started, now idling
+2018-12-10 01:26:28.485228: Tree is cut
+2018-12-10 01:26:37.901909: Chopping started, now idling
+2018-12-10 01:26:43.974257: Tree is cut
+2018-12-10 01:26:53.571912: Chopping started, now idling
+2018-12-10 01:27:01.815451: Tree is cut
+2018-12-10 01:27:11.219259: Chopping started, now idling
+2018-12-10 01:27:30.928474: Tree is cut
+2018-12-10 01:27:41.328628: Chopping started, now idling
+2018-12-10 01:27:52.188138: Tree is cut
+2018-12-10 01:28:01.767555: Chopping started, now idling
+2018-12-10 01:28:24.503353: Inventory full 
+2018-12-10 01:28:25.715094: Depositing Inventory 
+2018-12-10 01:28:35.922378: Loops completed: 9
+2018-12-10 01:28:35.922416: Loop time: 162.735050917 seconds
+2018-12-10 01:28:35.922434: STARTING LOOP #9
+2018-12-10 01:28:36.892781: Moving to chop position
+2018-12-10 01:28:45.152281: Chopping started, now idling
+2018-12-10 01:29:10.974521: Tree is cut
+2018-12-10 01:29:19.825109: Chopping started, now idling
+2018-12-10 01:29:23.179620: Tree is cut
+2018-12-10 01:29:32.516126: Chopping started, now idling
+2018-12-10 01:29:38.523464: Tree is cut
+2018-12-10 01:29:47.662841: Chopping started, now idling
+2018-12-10 01:30:02.863615: Tree is cut
+2018-12-10 01:30:12.139252: Chopping started, now idling
+2018-12-10 01:30:20.331596: Tree is cut
+2018-12-10 01:30:30.321900: Chopping started, now idling
+2018-12-10 01:30:50.158972: Inventory full 
+2018-12-10 01:30:51.567548: Depositing Inventory 
+2018-12-10 01:31:02.773651: Loops completed: 10
+2018-12-10 01:31:02.773692: Loop time: 146.851263046 seconds
+2018-12-10 01:31:02.773711: STARTING LOOP #10
+2018-12-10 01:31:03.916620: Moving to chop position
+2018-12-10 01:31:12.829007: Chopping started, now idling
+2018-12-10 01:31:44.956504: Tree is cut
+2018-12-10 01:31:53.714412: Chopping started, now idling
+2018-12-10 01:32:13.114440: Tree is cut
+2018-12-10 01:32:23.576067: Chopping started, now idling
+2018-12-10 01:32:47.653603: Inventory full 
+2018-12-10 01:32:49.263546: Depositing Inventory 
+2018-12-10 01:33:01.031589: Loops completed: 11
+2018-12-10 01:33:01.031625: Loop time: 118.257917881 seconds
+2018-12-10 01:33:01.031643: STARTING LOOP #11
+2018-12-10 01:33:02.378707: Moving to chop position
+2018-12-10 01:33:10.935518: Chopping started, now idling
+2018-12-10 01:33:14.337025: Tree is cut
+2018-12-10 01:33:23.205061: Chopping started, now idling
+2018-12-10 01:33:30.581636: Tree is cut
+2018-12-10 01:33:40.191161: Chopping started, now idling
+2018-12-10 01:33:55.937204: Tree is cut
+2018-12-10 01:34:06.285588: Chopping started, now idling
+2018-12-10 01:34:08.483193: Tree is cut
+2018-12-10 01:34:16.969039: Chopping started, now idling
+2018-12-10 01:34:19.119356: Tree is cut
+2018-12-10 01:34:28.437483: Chopping started, now idling
+2018-12-10 01:34:30.540869: Tree is cut
+2018-12-10 01:34:40.279227: Chopping started, now idling
+2018-12-10 01:34:47.183938: Tree is cut
+2018-12-10 01:34:56.467544: Chopping started, now idling
+2018-12-10 01:35:28.432880: Tree is cut
+2018-12-10 01:35:38.906799: Chopping started, now idling
+2018-12-10 01:35:55.867346: Inventory full 
+2018-12-10 01:35:57.082410: Depositing Inventory 
+2018-12-10 01:36:08.213540: Loops completed: 12
+2018-12-10 01:36:08.213578: Loop time: 187.181939125 seconds
+2018-12-10 01:36:08.213595: STARTING LOOP #12
+2018-12-10 01:36:09.134375: Moving to chop position
+2018-12-10 01:36:17.960461: Chopping started, now idling
+2018-12-10 01:36:37.799199: Tree is cut
+2018-12-10 01:36:47.069025: Chopping started, now idling
+2018-12-10 01:37:03.128952: Tree is cut
+2018-12-10 01:37:12.798222: Chopping started, now idling
+2018-12-10 01:37:16.087721: Tree is cut
+2018-12-10 01:37:26.529219: Chopping started, now idling
+2018-12-10 01:37:29.788014: Tree is cut
+2018-12-10 01:37:38.587128: Chopping started, now idling
+2018-12-10 01:37:43.944894: Chopping started, now idling
+2018-12-10 01:37:45.718263: Chopping started, now idling
+2018-12-10 01:37:47.733998: Tree is cut
+2018-12-10 01:37:55.519088: Chopping started, now idling
+2018-12-10 01:37:59.099284: Tree is cut
+2018-12-10 01:38:08.300004: Chopping started, now idling
+2018-12-10 01:38:14.343923: Tree is cut
+2018-12-10 01:38:23.599821: Chopping started, now idling
+2018-12-10 01:38:34.200672: Tree is cut
+2018-12-10 01:38:43.304385: Chopping started, now idling
+2018-12-10 01:38:56.547954: Tree is cut
+2018-12-10 01:39:05.718274: Chopping started, now idling
+2018-12-10 01:39:08.854157: Inventory full 
+2018-12-10 01:39:10.528778: Depositing Inventory 
+2018-12-10 01:39:21.525343: Loops completed: 13
+2018-12-10 01:39:21.525377: Loop time: 193.311785936 seconds
+2018-12-10 01:39:21.525396: STARTING LOOP #13
+2018-12-10 01:39:22.311774: Moving to chop position
+2018-12-10 01:39:30.821820: Chopping started, now idling
+2018-12-10 01:39:46.503964: Tree is cut
+2018-12-10 01:39:55.589699: Chopping started, now idling
+2018-12-10 01:40:01.220501: Tree is cut
+2018-12-10 01:40:10.569325: Chopping started, now idling
+2018-12-10 01:40:24.449578: Tree is cut
+2018-12-10 01:40:33.003933: Chopping started, now idling
+2018-12-10 01:40:44.014732: Tree is cut
+2018-12-10 01:40:52.925764: Chopping started, now idling
+2018-12-10 01:41:01.146555: Tree is cut
+2018-12-10 01:41:11.040719: Chopping started, now idling
+2018-12-10 01:41:19.746987: Tree is cut
+2018-12-10 01:41:28.994850: Chopping started, now idling
+2018-12-10 01:41:31.094550: Tree is cut
+2018-12-10 01:41:40.319204: Chopping started, now idling
+2018-12-10 01:41:45.933797: Tree is cut
+2018-12-10 01:41:55.582493: Chopping started, now idling
+2018-12-10 01:42:02.252955: Inventory full 
+2018-12-10 01:42:03.583516: Depositing Inventory 
+2018-12-10 01:43:05.003001: Starting OakBot 
+2018-12-10 01:43:06.960185: Depositing Inventory 
+2018-12-10 01:43:13.813149: STARTING LOOP #0
+2018-12-10 01:43:15.102011: Moving to chop position
+2018-12-10 01:43:23.691949: Chopping started, now idling
+2018-12-10 01:43:37.093024: Tree is cut
+2018-12-10 01:43:41.312518: Chopping started, now idling
+2018-12-10 01:43:42.200392: Tree is cut
+2018-12-10 01:43:46.096488: Chopping started, now idling
+2018-12-10 01:43:52.092094: Tree is cut
+2018-12-10 01:44:01.536119: Chopping started, now idling
+2018-12-10 01:44:21.512056: Tree is cut
+2018-12-10 01:44:30.739003: Chopping started, now idling
+2018-12-10 01:45:07.446056: Tree is cut
+2018-12-10 01:45:18.150756: Chopping started, now idling
+2018-12-10 01:45:21.230013: Inventory full 
+2018-12-10 01:45:22.951281: Depositing Inventory 
+2018-12-10 01:45:33.817655: Loops completed: 1
+2018-12-10 01:45:33.817696: Loop time: 140.004559994 seconds
+2018-12-10 01:45:33.822976: STARTING LOOP #1
+2018-12-10 01:45:34.669684: Moving to chop position
+2018-12-10 01:45:43.166962: Chopping started, now idling
+2018-12-10 01:45:47.778618: Tree is cut
+2018-12-10 01:45:52.135177: Chopping started, now idling
+2018-12-10 01:46:13.147942: Tree is cut
+2018-12-10 01:46:23.654148: Chopping started, now idling
+2018-12-10 01:46:31.749762: Tree is cut
+2018-12-10 01:46:41.880286: Chopping started, now idling
+2018-12-10 01:47:11.689054: Tree is cut
+2018-12-10 01:47:21.147179: Chopping started, now idling
+2018-12-10 01:47:33.253061: Tree is cut
+2018-12-10 01:47:42.304409: Chopping started, now idling
+2018-12-10 01:47:52.042988: Tree is cut
+2018-12-10 01:48:01.740561: Chopping started, now idling
+2018-12-10 01:48:04.564723: Inventory full 
+2018-12-10 01:48:06.381676: Depositing Inventory 
+2018-12-10 01:48:17.375295: Loops completed: 2
+2018-12-10 01:48:17.375330: Loop time: 163.552361965 seconds
+2018-12-10 01:48:17.375345: STARTING LOOP #2
+2018-12-10 01:48:18.595895: Moving to chop position
+2018-12-10 01:48:26.788040: Chopping started, now idling
+2018-12-10 01:48:32.746244: Tree is cut
+2018-12-10 01:48:41.443569: Chopping started, now idling
+2018-12-10 01:48:47.156614: Tree is cut
+2018-12-10 01:48:56.319995: Chopping started, now idling
+2018-12-10 01:49:02.161122: Tree is cut
+2018-12-10 01:49:07.472670: Chopping started, now idling
+2018-12-10 01:49:09.443571: Tree is cut
+2018-12-10 01:49:10.923080: Chopping started, now idling
+2018-12-10 01:49:26.301692: Tree is cut
+2018-12-10 01:49:35.924717: Chopping started, now idling
+2018-12-10 01:49:55.446071: Tree is cut
+2018-12-10 01:50:04.172888: Chopping started, now idling
+2018-12-10 01:50:21.535954: Tree is cut
+2018-12-10 01:50:30.599273: Chopping started, now idling
+2018-12-10 01:50:32.807824: Tree is cut
+2018-12-10 01:50:42.009054: Chopping started, now idling
+2018-12-10 01:50:52.727549: Inventory full 
+2018-12-10 01:50:54.489889: Depositing Inventory 
+2018-12-10 01:51:05.353948: Loops completed: 3
+2018-12-10 01:51:05.353979: Loop time: 167.978637934 seconds
+2018-12-10 01:51:05.353996: STARTING LOOP #3
+2018-12-10 01:51:06.793966: Moving to chop position
+2018-12-10 01:51:15.096874: Chopping started, now idling
+2018-12-10 01:51:17.251416: Tree is cut
+2018-12-10 01:51:26.703902: Chopping started, now idling
+2018-12-10 01:51:46.793776: Tree is cut
+2018-12-10 01:51:56.484983: Chopping started, now idling
+2018-12-10 01:52:09.852692: Tree is cut
+2018-12-10 01:52:18.707693: Chopping started, now idling
+2018-12-10 01:52:26.835399: Tree is cut
+2018-12-10 01:52:36.031151: Chopping started, now idling
+2018-12-10 01:52:38.260412: Tree is cut
+2018-12-10 01:52:48.046065: Chopping started, now idling
+2018-12-10 01:53:01.272704: Tree is cut
+2018-12-10 01:53:09.513736: Chopping started, now idling
+2018-12-10 01:53:45.080889: Inventory full 
+2018-12-10 01:53:46.536836: Depositing Inventory 
+2018-12-10 01:53:57.587934: Loops completed: 4
+2018-12-10 01:53:57.587971: Loop time: 172.23397994 seconds
+2018-12-10 01:53:57.587988: STARTING LOOP #4
+2018-12-10 01:53:58.580019: Moving to chop position
+2018-12-10 01:54:10.150873: Chopping started, now idling
+2018-12-10 01:54:16.840185: Tree is cut
+2018-12-10 01:54:24.690877: Chopping started, now idling
+2018-12-10 01:54:34.613951: Tree is cut
+2018-12-10 01:54:44.269517: Chopping started, now idling
+2018-12-10 01:55:01.169003: Tree is cut
+2018-12-10 01:55:11.286773: Chopping started, now idling
+2018-12-10 01:55:33.101661: Tree is cut
+2018-12-10 01:55:42.561175: Chopping started, now idling
+2018-12-10 01:55:46.051094: Tree is cut
+2018-12-10 01:55:55.668539: Chopping started, now idling
+2018-12-10 01:56:04.279343: Tree is cut
+2018-12-10 01:56:13.516382: Chopping started, now idling
+2018-12-10 01:56:21.518891: Inventory full 
+2018-12-10 01:56:23.178123: Depositing Inventory 
+2018-12-10 01:56:34.722947: Loops completed: 5
+2018-12-10 01:56:34.722976: Loop time: 157.134991169 seconds
+2018-12-10 01:56:34.722990: STARTING LOOP #5
+2018-12-10 01:56:36.177430: Moving to chop position
+2018-12-10 01:56:49.849604: Chopping started, now idling
+2018-12-10 01:57:01.258001: Tree is cut
+2018-12-10 01:57:10.330217: Chopping started, now idling
+2018-12-10 01:57:12.347638: Tree is cut
+2018-12-10 01:57:21.724568: Chopping started, now idling
+2018-12-10 01:57:38.555719: Tree is cut
+2018-12-10 01:57:46.761423: Chopping started, now idling
+2018-12-10 01:57:50.049009: Tree is cut
+2018-12-10 01:57:59.195657: Chopping started, now idling
+2018-12-10 01:58:04.055952: Tree is cut
+2018-12-10 01:58:13.127534: Chopping started, now idling
+2018-12-10 01:58:38.948403: Tree is cut
+2018-12-10 01:58:43.323342: Chopping started, now idling
+2018-12-10 01:58:44.211382: Tree is cut
+2018-12-10 01:58:48.616833: Chopping started, now idling
+2018-12-10 01:58:53.162200: Tree is cut
+2018-12-10 01:59:02.358373: Chopping started, now idling
+2018-12-10 01:59:19.591661: Inventory full 
+2018-12-10 01:59:21.538663: Depositing Inventory 
+2018-12-10 01:59:31.961090: Loops completed: 6
+2018-12-10 01:59:31.961130: Loop time: 177.238142967 seconds
+2018-12-10 01:59:31.961144: STARTING LOOP #6
+2018-12-10 01:59:33.052432: Moving to chop position
+2018-12-10 01:59:41.514856: Chopping started, now idling
+2018-12-10 01:59:52.206929: Tree is cut
+2018-12-10 02:00:02.475367: Chopping started, now idling
+2018-12-10 02:00:13.318968: Tree is cut
+2018-12-10 02:00:22.187570: Chopping started, now idling
+2018-12-10 02:00:26.917155: Tree is cut
+2018-12-10 02:00:36.026910: Chopping started, now idling
+2018-12-10 02:00:40.303516: Tree is cut
+2018-12-10 02:00:49.071554: Chopping started, now idling
+2018-12-10 02:01:00.241830: Tree is cut
+2018-12-10 02:01:09.262438: Chopping started, now idling
+2018-12-10 02:01:22.745768: Tree is cut
+2018-12-10 02:01:32.031797: Chopping started, now idling
+2018-12-10 02:01:44.039220: Tree is cut
+2018-12-10 02:01:53.288024: Chopping started, now idling
+2018-12-10 02:02:08.175553: Inventory full 
+2018-12-10 02:02:09.931421: Depositing Inventory 
+2018-12-10 02:02:20.518175: Loops completed: 7
+2018-12-10 02:02:20.518203: Loop time: 168.557061911 seconds
+2018-12-10 02:02:20.518216: STARTING LOOP #7
+2018-12-10 02:02:21.612125: Moving to chop position
+2018-12-10 02:02:29.531265: Chopping started, now idling
+2018-12-10 02:02:54.393787: Tree is cut
+2018-12-10 02:03:03.702567: Chopping started, now idling
+2018-12-10 02:03:05.779614: Tree is cut
+2018-12-10 02:03:14.503254: Chopping started, now idling
+2018-12-10 02:03:32.910304: Tree is cut
+2018-12-10 02:03:40.860278: Chopping started, now idling
+2018-12-10 02:04:16.302736: Tree is cut
+2018-12-10 02:04:26.393398: Chopping started, now idling
+2018-12-10 02:04:29.784956: Tree is cut
+2018-12-10 02:04:39.015411: Chopping started, now idling
+2018-12-10 02:04:44.690379: Tree is cut
+2018-12-10 02:04:53.968525: Chopping started, now idling
+2018-12-10 02:05:16.931529: Inventory full 
+2018-12-10 02:05:18.293595: Depositing Inventory 
+2018-12-10 02:05:28.988177: Loops completed: 8
+2018-12-10 02:05:28.988209: Loop time: 188.469995975 seconds
+2018-12-10 02:05:28.988225: STARTING LOOP #8
+2018-12-10 02:05:30.024822: Moving to chop position
+2018-12-10 02:05:38.175837: Chopping started, now idling
+2018-12-10 02:06:53.286811: Inventory full 
+2018-12-10 02:06:54.426546: Depositing Inventory 
+2018-12-10 02:07:06.506124: Loops completed: 9
+2018-12-10 02:07:06.506158: Loop time: 97.517936945 seconds
+2018-12-10 02:07:06.506172: STARTING LOOP #9
+2018-12-10 02:07:07.522795: Moving to chop position
+2018-12-10 02:07:15.419071: Chopping started, now idling
+2018-12-10 02:08:04.441450: Tree is cut
+2018-12-10 02:08:13.941376: Chopping started, now idling
+2018-12-10 02:08:53.297217: Inventory full 
+2018-12-10 02:08:54.586698: Depositing Inventory 
+2018-12-10 02:09:06.125721: Loops completed: 10
+2018-12-10 02:09:06.125758: Loop time: 119.619590044 seconds
+2018-12-10 02:09:06.125788: STARTING LOOP #10
+2018-12-10 02:09:06.840226: Moving to chop position
+2018-12-10 02:09:15.576840: Chopping started, now idling
+2018-12-10 02:09:41.011620: Tree is cut
+2018-12-10 02:09:50.466831: Chopping started, now idling
+2018-12-10 02:10:06.050752: Tree is cut
+2018-12-10 02:10:15.092222: Chopping started, now idling
+2018-12-10 02:10:21.008134: Tree is cut
+2018-12-10 02:10:30.282957: Chopping started, now idling
+2018-12-10 02:10:47.424277: Tree is cut
+2018-12-10 02:10:57.965085: Chopping started, now idling
+2018-12-10 02:11:01.344709: Tree is cut
+2018-12-10 02:11:10.659325: Chopping started, now idling
+2018-12-10 02:11:15.903814: Inventory full 
+2018-12-10 02:11:17.407533: Depositing Inventory 
+2018-12-10 02:11:28.533063: Loops completed: 11
+2018-12-10 02:11:28.533101: Loop time: 142.407317877 seconds
+2018-12-10 02:11:28.533115: STARTING LOOP #11
+2018-12-10 02:11:29.530528: Moving to chop position
+2018-12-10 02:11:37.274822: Chopping started, now idling
+2018-12-10 02:11:57.714791: Tree is cut
+2018-12-10 02:12:07.240952: Chopping started, now idling
+2018-12-10 02:12:25.578387: Tree is cut
+2018-12-10 02:12:34.216764: Chopping started, now idling
+2018-12-10 02:12:37.723438: Tree is cut
+2018-12-10 02:12:47.260746: Chopping started, now idling
+2018-12-10 02:13:16.788934: Inventory full 
+2018-12-10 02:13:18.443606: Depositing Inventory 
+2018-12-10 02:13:29.927187: Loops completed: 12
+2018-12-10 02:13:29.927218: Loop time: 121.39410615 seconds
+2018-12-10 02:13:29.927234: STARTING LOOP #12
+2018-12-10 02:13:30.740718: Moving to chop position
+2018-12-10 02:13:38.741932: Chopping started, now idling
+2018-12-10 02:13:56.029029: Chopping started, now idling
+2018-12-10 02:13:58.056853: Chopping started, now idling
+2018-12-10 02:14:43.129443: Tree is cut
+2018-12-10 02:14:51.758852: Chopping started, now idling
+2018-12-10 02:15:07.780926: Tree is cut
+2018-12-10 02:15:16.633245: Chopping started, now idling
+2018-12-10 02:15:19.792259: Inventory full 
+2018-12-10 02:15:21.291538: Depositing Inventory 
+2018-12-10 02:15:31.948916: Loops completed: 13
+2018-12-10 02:15:31.948971: Loop time: 122.021743059 seconds
+2018-12-10 02:15:31.948992: STARTING LOOP #13
+2018-12-10 02:15:33.059458: Moving to chop position
+2018-12-10 02:15:41.134007: Chopping started, now idling
+2018-12-10 02:16:23.250091: Tree is cut
+2018-12-10 02:16:32.338755: Chopping started, now idling
+2018-12-10 02:16:40.772311: Tree is cut
+2018-12-10 02:16:50.201243: Chopping started, now idling
+2018-12-10 02:17:17.047533: Inventory full 
+2018-12-10 02:17:19.095443: Depositing Inventory 
+2018-12-10 02:17:30.274620: Loops completed: 14
+2018-12-10 02:17:30.274656: Loop time: 118.325667858 seconds
+2018-12-10 02:17:30.274674: STARTING LOOP #14
+2018-12-10 02:17:31.678917: Moving to chop position
+2018-12-10 02:17:40.232853: Chopping started, now idling
+2018-12-10 02:17:46.214739: Tree is cut
+2018-12-10 02:17:55.492374: Chopping started, now idling
+2018-12-10 02:18:16.327279: Tree is cut
+2018-12-10 02:18:25.536733: Chopping started, now idling
+2018-12-10 02:18:48.480871: Tree is cut
+2018-12-10 02:18:57.654767: Chopping started, now idling
+2018-12-10 02:19:03.609572: Tree is cut
+2018-12-10 02:19:12.682008: Chopping started, now idling
+2018-12-10 02:19:23.367732: Tree is cut
+2018-12-10 02:19:32.435828: Chopping started, now idling
+2018-12-10 02:19:42.496387: Inventory full 
+2018-12-10 02:19:43.912793: Depositing Inventory 
+2018-12-10 02:19:55.033746: Loops completed: 15
+2018-12-10 02:19:55.033776: Loop time: 144.759104967 seconds
+2018-12-10 02:19:55.035762: STARTING LOOP #15
+2018-12-10 02:19:55.929416: Moving to chop position
+2018-12-10 02:20:04.222143: Chopping started, now idling
+2018-12-10 02:20:07.620874: Tree is cut
+2018-12-10 02:20:16.335739: Chopping started, now idling
+2018-12-10 02:20:19.665321: Tree is cut
+2018-12-10 02:20:28.542137: Chopping started, now idling
+2018-12-10 02:21:00.057195: Tree is cut
+2018-12-10 02:21:10.441791: Chopping started, now idling
+2018-12-10 02:21:13.731199: Tree is cut
+2018-12-10 02:21:23.090073: Chopping started, now idling
+2018-12-10 02:21:31.318709: Tree is cut
+2018-12-10 02:21:40.616849: Chopping started, now idling
+2018-12-10 02:21:57.607741: Tree is cut
+2018-12-10 02:22:07.461226: Chopping started, now idling
+2018-12-10 02:22:13.046318: Inventory full 
+2018-12-10 02:22:14.750566: Depositing Inventory 
+2018-12-10 02:22:26.074949: Loops completed: 16
+2018-12-10 02:22:26.074991: Loop time: 151.039237976 seconds
+2018-12-10 02:22:26.075014: STARTING LOOP #16
+2018-12-10 02:22:27.012071: Moving to chop position
+2018-12-10 02:22:35.646508: Chopping started, now idling
+2018-12-10 02:22:52.965159: Tree is cut
+2018-12-10 02:23:02.477325: Chopping started, now idling
+2018-12-10 02:23:12.901703: Tree is cut
+2018-12-10 02:23:22.470053: Chopping started, now idling
+2018-12-10 02:23:47.510063: Tree is cut
+2018-12-10 02:23:56.978872: Chopping started, now idling
+2018-12-10 02:24:12.577265: Tree is cut
+2018-12-10 02:24:21.717329: Chopping started, now idling
+2018-12-10 02:24:24.767342: Inventory full 
+2018-12-10 02:24:26.612592: Depositing Inventory 
+2018-12-10 02:24:37.840893: Loops completed: 17
+2018-12-10 02:24:37.840934: Loop time: 131.765923977 seconds
+2018-12-10 02:24:37.840953: STARTING LOOP #17
+2018-12-10 02:24:39.090413: Moving to chop position
+2018-12-10 02:24:47.567452: Chopping started, now idling
+2018-12-10 02:25:14.533862: Tree is cut
+2018-12-10 02:25:24.133097: Chopping started, now idling
+2018-12-10 02:25:28.446097: Inventory full 
+2018-12-10 05:02:57.425015: Starting OakBot 
+2018-12-10 05:02:59.437349: Depositing Inventory 
+2018-12-10 05:03:05.836522: STARTING LOOP #0
+2018-12-10 05:03:06.865750: Moving to chop position
+2018-12-10 05:03:17.089208: Chopping started, now idling
+2018-12-10 05:03:20.897118: Tree is cut
+2018-12-10 05:03:30.199168: Chopping started, now idling
+2018-12-10 05:04:00.577524: Tree is cut
+2018-12-10 05:04:09.209597: Chopping started, now idling
+2018-12-10 05:04:40.217867: Inventory full 
+2018-12-10 05:04:41.893666: Depositing Inventory 
+2018-12-10 05:05:18.513454: Starting OakBot 
+2018-12-10 05:05:20.354172: Depositing Inventory 
+2018-12-10 05:05:26.672327: STARTING LOOP #0
+2018-12-10 05:05:27.771921: Moving to chop position
+2018-12-10 05:05:35.686196: Chopping started, now idling
+2018-12-10 05:05:53.580987: Tree is cut
+2018-12-10 05:06:02.925497: Chopping started, now idling
+2018-12-10 05:06:12.784812: Tree is cut
+2018-12-10 05:06:22.412896: Chopping started, now idling
+2018-12-10 05:06:49.937757: Tree is cut
+2018-12-10 05:06:59.553724: Chopping started, now idling
+2018-12-10 05:07:12.791031: Tree is cut
+2018-12-10 05:07:22.553402: Chopping started, now idling
+2018-12-10 05:07:28.027684: Inventory full 
+2018-12-10 05:07:29.485552: Depositing Inventory 
+2018-12-10 05:07:41.309115: Loops completed: 1
+2018-12-10 05:07:41.309153: Loop time: 134.636838913 seconds
+2018-12-10 05:07:41.314450: STARTING LOOP #1
+2018-12-10 05:07:42.213286: Moving to chop position
+2018-12-10 05:07:50.607619: Chopping started, now idling
+2018-12-10 05:08:13.462263: Tree is cut
+2018-12-10 05:08:22.620324: Chopping started, now idling
+2018-12-10 05:08:36.019110: Tree is cut
+2018-12-10 05:08:44.472249: Chopping started, now idling
+2018-12-10 05:09:20.767874: Inventory full 
+2018-12-10 05:09:22.277196: Depositing Inventory 
+2018-12-10 05:09:33.186677: Loops completed: 2
+2018-12-10 05:09:33.186716: Loop time: 111.872273922 seconds
+2018-12-10 05:09:33.186735: STARTING LOOP #2
+2018-12-10 05:09:34.453232: Moving to chop position
+2018-12-10 05:09:43.173897: Chopping started, now idling
+2018-12-10 05:09:50.894083: Tree is cut
+2018-12-10 05:10:00.367159: Chopping started, now idling
+2018-12-10 05:10:03.246940: Tree is cut
+2018-12-10 05:10:12.766812: Chopping started, now idling
+2018-12-10 05:10:15.644203: Tree is cut
+2018-12-10 05:10:25.175131: Chopping started, now idling
+2018-12-10 05:11:27.818806: Inventory full 
+2018-12-10 05:11:29.336825: Depositing Inventory 
+2018-12-10 05:11:39.890790: Loops completed: 3
+2018-12-10 05:11:39.890831: Loop time: 126.704101086 seconds
+2018-12-10 05:11:39.890850: STARTING LOOP #3
+2018-12-10 05:11:41.043504: Moving to chop position
+2018-12-10 05:11:49.011593: Chopping started, now idling
+2018-12-10 05:12:02.245880: Tree is cut
+2018-12-10 05:12:11.359421: Chopping started, now idling
+2018-12-10 05:12:53.502558: Tree is cut
+2018-12-10 05:13:03.518440: Chopping started, now idling
+2018-12-10 05:13:06.340207: Tree is cut
+2018-12-10 05:13:15.068347: Chopping started, now idling
+2018-12-10 05:13:26.002049: Tree is cut
+2018-12-10 05:13:35.148734: Chopping started, now idling
+2018-12-10 05:13:40.721477: Inventory full 
+2018-12-10 05:13:42.633927: Depositing Inventory 
+2018-12-10 05:13:54.901889: Loops completed: 4
+2018-12-10 05:13:54.901929: Loop time: 135.011082888 seconds
+2018-12-10 05:13:54.901946: STARTING LOOP #4
+2018-12-10 05:13:55.886480: Moving to chop position
+2018-12-10 05:14:04.164577: Chopping started, now idling
+2018-12-10 05:14:19.861072: Tree is cut
+2018-12-10 05:14:29.797217: Chopping started, now idling
+2018-12-10 05:14:34.985359: Tree is cut
+2018-12-10 05:14:44.884546: Chopping started, now idling
+2018-12-10 05:15:17.855345: Tree is cut
+2018-12-10 05:15:27.150103: Chopping started, now idling
+2018-12-10 05:15:36.854756: Tree is cut
+2018-12-10 05:15:46.465282: Chopping started, now idling
+2018-12-10 05:15:53.981591: Inventory full 
+2018-12-10 05:15:55.432444: Depositing Inventory 
+2018-12-10 05:16:05.854155: Loops completed: 5
+2018-12-10 05:16:05.854200: Loop time: 130.952258825 seconds
+2018-12-10 05:16:05.854220: STARTING LOOP #5
+2018-12-10 05:16:06.788447: Moving to chop position
+2018-12-10 05:16:14.883007: Chopping started, now idling
+2018-12-10 05:16:25.048040: Tree is cut
+2018-12-10 05:16:35.238652: Chopping started, now idling
+2018-12-10 05:16:45.198053: Tree is cut
+2018-12-10 05:16:54.826530: Chopping started, now idling
+2018-12-10 05:17:08.154545: Tree is cut
+2018-12-10 05:17:18.239449: Chopping started, now idling
+2018-12-10 05:17:21.098127: Tree is cut
+2018-12-10 05:17:30.031841: Chopping started, now idling
+2018-12-10 05:17:47.195303: Tree is cut
+2018-12-10 05:17:56.633698: Chopping started, now idling
+2018-12-10 05:18:07.410265: Tree is cut
+2018-12-10 05:18:16.797868: Chopping started, now idling
+2018-12-10 05:18:24.679417: Inventory full 
+2018-12-10 05:18:26.394162: Depositing Inventory 
+2018-12-10 05:18:37.010696: Loops completed: 6
+2018-12-10 05:18:37.010737: Loop time: 151.156522036 seconds
+2018-12-10 05:18:37.010755: STARTING LOOP #6
+2018-12-10 05:18:38.255178: Moving to chop position
+2018-12-10 05:18:46.592877: Chopping started, now idling
+2018-12-10 05:18:51.406809: Tree is cut
+2018-12-10 05:19:00.873422: Chopping started, now idling
+2018-12-10 05:19:04.023376: Tree is cut
+2018-12-10 05:19:05.598482: Inventory full 
+2018-12-10 05:19:07.298533: Depositing Inventory 
+2018-12-10 05:19:18.179952: Loops completed: 7
+2018-12-10 05:19:18.179996: Loop time: 41.1692459583 seconds
+2018-12-10 05:19:18.180017: STARTING LOOP #7
+2018-12-10 05:19:19.041298: Moving to chop position
+2018-12-10 05:19:26.603761: Chopping started, now idling
+2018-12-10 05:19:42.333648: Tree is cut
+2018-12-10 05:19:51.766265: Chopping started, now idling
+2018-12-10 05:20:50.770357: Inventory full 
+2018-12-10 05:20:52.288384: Depositing Inventory 
+2018-12-10 05:21:03.222320: Loops completed: 8
+2018-12-10 05:21:03.222349: Loop time: 105.042335987 seconds
+2018-12-10 05:21:03.222362: STARTING LOOP #8
+2018-12-10 05:21:04.384151: Moving to chop position
+2018-12-10 05:21:12.589377: Chopping started, now idling
+2018-12-10 05:21:27.565487: Tree is cut
+2018-12-10 05:21:37.553048: Chopping started, now idling
+2018-12-10 05:22:07.434065: Tree is cut
+2018-12-10 05:22:15.929449: Chopping started, now idling
+2018-12-10 05:22:40.064923: Inventory full 
+2018-12-10 05:22:41.426233: Depositing Inventory 
+2018-12-10 05:22:52.493043: Loops completed: 9
+2018-12-10 05:22:52.493076: Loop time: 109.270716906 seconds
+2018-12-10 05:22:52.493091: STARTING LOOP #9
+2018-12-10 05:22:53.545393: Moving to chop position
+2018-12-10 05:23:01.439884: Chopping started, now idling
+2018-12-10 05:23:21.080539: Tree is cut
+2018-12-10 05:23:30.801666: Chopping started, now idling
+2018-12-10 05:24:05.732045: Tree is cut
+2018-12-10 05:24:15.008346: Chopping started, now idling
+2018-12-10 05:24:27.635907: Tree is cut
+2018-12-10 05:24:37.167174: Chopping started, now idling
+2018-12-10 05:24:47.527063: Inventory full 
+2018-12-10 05:24:49.283519: Depositing Inventory 
+2018-12-10 05:24:59.407858: Loops completed: 10
+2018-12-10 05:24:59.407966: Loop time: 126.914884806 seconds
+2018-12-10 05:24:59.408013: STARTING LOOP #10
+2018-12-10 05:25:00.309125: Moving to chop position
+2018-12-10 05:25:07.970576: Chopping started, now idling
+2018-12-10 05:25:20.886318: Tree is cut
+2018-12-10 05:25:30.326790: Chopping started, now idling
+2018-12-10 05:25:36.583537: Tree is cut
+2018-12-10 05:25:45.222908: Chopping started, now idling
+2018-12-10 05:26:07.230928: Tree is cut
+2018-12-10 05:26:17.045233: Chopping started, now idling
+2018-12-10 05:26:45.905039: Tree is cut
+2018-12-10 05:26:54.741014: Chopping started, now idling
+2018-12-10 05:26:57.225705: Inventory full 
+2018-12-10 05:26:58.736097: Depositing Inventory 
+2018-12-10 05:27:09.045863: Loops completed: 11
+2018-12-10 05:27:09.045898: Loop time: 129.6378901 seconds
+2018-12-10 05:27:09.045912: STARTING LOOP #11
+2018-12-10 05:27:09.808694: Moving to chop position
+2018-12-10 05:27:18.509512: Chopping started, now idling
+2018-12-10 05:27:21.401297: Tree is cut
+2018-12-10 05:27:30.846639: Chopping started, now idling
+2018-12-10 05:27:55.366255: Tree is cut
+2018-12-10 05:28:04.858693: Chopping started, now idling
+2018-12-10 05:28:18.749938: Tree is cut
+2018-12-10 05:28:28.236638: Chopping started, now idling
+2018-12-10 05:28:54.595392: Tree is cut
+2018-12-10 05:29:02.948287: Chopping started, now idling
+2018-12-10 05:29:12.736754: Inventory full 
+2018-12-10 05:29:14.189868: Depositing Inventory 
+2018-12-10 05:29:24.410600: Loops completed: 12
+2018-12-10 05:29:24.410662: Loop time: 135.364754915 seconds
+2018-12-10 05:29:24.410697: STARTING LOOP #12
+2018-12-10 05:29:25.450092: Moving to chop position
+2018-12-10 05:29:41.791467: Chopping started, now idling
+2018-12-10 05:29:48.647542: Tree is cut
+2018-12-10 05:29:58.460083: Chopping started, now idling
+2018-12-10 05:30:54.317729: Tree is cut
+2018-12-10 05:31:03.728744: Chopping started, now idling
+2018-12-10 05:31:14.231884: Inventory full 
+2018-12-10 05:31:15.647960: Depositing Inventory 
+2018-12-10 05:31:27.720674: Loops completed: 13
+2018-12-10 05:31:27.720715: Loop time: 123.310024023 seconds
+2018-12-10 05:31:27.720733: STARTING LOOP #13
+2018-12-10 05:31:28.504863: Moving to chop position
+2018-12-10 05:31:36.700493: Chopping started, now idling
+2018-12-10 05:32:20.548303: Tree is cut
+2018-12-10 05:32:29.998302: Chopping started, now idling
+2018-12-10 05:32:37.856420: Tree is cut
+2018-12-10 05:32:46.258130: Chopping started, now idling
+2018-12-10 05:32:53.867855: Tree is cut
+2018-12-10 05:33:03.836158: Chopping started, now idling
+2018-12-10 05:33:09.018531: Tree is cut
+2018-12-10 05:33:17.913961: Chopping started, now idling
+2018-12-10 05:33:25.851721: Tree is cut
+2018-12-10 05:33:35.196718: Chopping started, now idling
+2018-12-10 05:33:42.770363: Inventory full 
+2018-12-10 05:33:44.809782: Depositing Inventory 
+2018-12-10 05:33:55.674630: Loops completed: 14
+2018-12-10 05:33:55.674684: Loop time: 147.953957081 seconds
+2018-12-10 05:33:55.674703: STARTING LOOP #14
+2018-12-10 05:33:56.842385: Moving to chop position
+2018-12-10 05:34:04.985829: Chopping started, now idling
+2018-12-10 05:34:27.916813: Tree is cut
+2018-12-10 05:34:37.329974: Chopping started, now idling
+2018-12-10 05:34:40.201903: Tree is cut
+2018-12-10 05:34:49.918315: Chopping started, now idling
+2018-12-10 05:35:05.553308: Tree is cut
+2018-12-10 05:35:14.447874: Chopping started, now idling
+2018-12-10 05:35:22.210412: Tree is cut
+2018-12-10 05:35:31.840595: Chopping started, now idling
+2018-12-10 05:35:37.806100: Tree is cut
+2018-12-10 05:35:43.663534: Chopping started, now idling
+2018-12-10 05:35:44.574030: Tree is cut
+2018-12-10 05:35:46.254394: Chopping started, now idling
+2018-12-10 05:35:49.158209: Tree is cut
+2018-12-10 05:35:58.695142: Chopping started, now idling
+2018-12-10 05:36:07.104839: Tree is cut
+2018-12-10 05:36:16.622480: Chopping started, now idling
+2018-12-10 05:36:21.558752: Tree is cut
+2018-12-10 05:36:30.419341: Chopping started, now idling
+2018-12-10 05:36:41.082150: Inventory full 
+2018-12-10 05:36:42.862420: Depositing Inventory 
+2018-12-10 05:36:53.332202: Loops completed: 15
+2018-12-10 05:36:53.332246: Loop time: 177.657546997 seconds
+2018-12-10 05:36:53.332267: STARTING LOOP #15
+2018-12-10 05:36:54.341627: Moving to chop position
+2018-12-10 05:37:02.311990: Chopping started, now idling
+2018-12-10 05:37:07.066092: Tree is cut
+2018-12-10 05:37:17.223230: Chopping started, now idling
+2018-12-10 05:37:30.506231: Tree is cut
+2018-12-10 05:37:40.100920: Chopping started, now idling
+2018-12-10 05:37:42.013762: Tree is cut
+2018-12-10 05:37:51.462035: Chopping started, now idling
+2018-12-10 05:38:00.550258: Tree is cut
+2018-12-10 05:38:10.583378: Chopping started, now idling
+2018-12-10 05:38:11.458365: Tree is cut
+2018-12-10 05:38:20.119465: Chopping started, now idling
+2018-12-10 05:38:26.325347: Tree is cut
+2018-12-10 05:38:29.155706: Chopping started, now idling
+2018-12-10 05:38:31.006891: Tree is cut
+2018-12-10 05:38:35.293559: Chopping started, now idling
+2018-12-10 05:38:37.115855: Tree is cut
+2018-12-10 05:38:47.466686: Chopping started, now idling
+2018-12-10 05:39:04.630019: Tree is cut
+2018-12-10 05:39:14.339343: Chopping started, now idling
+2018-12-10 05:39:36.399704: Inventory full 
+2018-12-10 05:39:37.998930: Depositing Inventory 
+2018-12-10 05:39:48.712674: Loops completed: 16
+2018-12-10 05:39:48.712714: Loop time: 175.380450964 seconds
+2018-12-10 05:39:48.712732: STARTING LOOP #16
+2018-12-10 05:39:49.532012: Moving to chop position
+2018-12-10 05:39:57.871506: Chopping started, now idling
+2018-12-10 05:40:22.703474: Tree is cut
+2018-12-10 05:40:32.095846: Chopping started, now idling
+2018-12-10 05:40:54.456633: Tree is cut
+2018-12-10 05:41:04.857319: Chopping started, now idling
+2018-12-10 05:41:26.769132: Tree is cut
+2018-12-10 05:41:36.155970: Chopping started, now idling
+2018-12-10 05:41:41.678742: Inventory full 
+2018-12-10 05:41:43.437174: Depositing Inventory 
+2018-12-10 05:41:54.589159: Loops completed: 17
+2018-12-10 05:41:54.589198: Loop time: 125.876471043 seconds
+2018-12-10 05:41:54.589216: STARTING LOOP #17
+2018-12-10 05:41:55.615919: Moving to chop position
+2018-12-10 05:42:09.880105: Chopping started, now idling
+2018-12-10 05:42:24.897265: Tree is cut
+2018-12-10 05:42:34.331662: Chopping started, now idling
+2018-12-10 05:42:49.004649: Tree is cut
+2018-12-10 05:42:58.539398: Chopping started, now idling
+2018-12-10 05:43:26.269468: Tree is cut
+2018-12-10 05:43:35.815893: Chopping started, now idling
+2018-12-10 05:43:47.642868: Inventory full 
+2018-12-10 05:43:49.307850: Depositing Inventory 
+2018-12-10 05:44:00.082789: Loops completed: 18
+2018-12-10 05:44:00.082824: Loop time: 125.493612051 seconds
+2018-12-10 05:44:00.082838: STARTING LOOP #18
+2018-12-10 05:44:01.350633: Moving to chop position
+2018-12-10 05:44:09.467175: Chopping started, now idling
+2018-12-10 05:44:18.748345: Tree is cut
+2018-12-10 05:44:28.294964: Chopping started, now idling
+2018-12-10 05:44:34.426409: Tree is cut
+2018-12-10 05:44:42.910829: Chopping started, now idling
+2018-12-10 05:44:50.774749: Tree is cut
+2018-12-10 05:44:59.934035: Chopping started, now idling
+2018-12-10 05:45:37.324826: Tree is cut
+2018-12-10 05:45:46.180208: Chopping started, now idling
+2018-12-10 05:45:57.874275: Tree is cut
+2018-12-10 05:46:07.323905: Chopping started, now idling
+2018-12-10 05:46:13.224440: Tree is cut
+2018-12-10 05:46:22.188397: Chopping started, now idling
+2018-12-10 05:46:29.738517: Inventory full 
+2018-12-10 05:46:31.298533: Depositing Inventory 
+2018-12-10 05:46:42.541075: Loops completed: 19
+2018-12-10 05:46:42.541116: Loop time: 162.45828104 seconds
+2018-12-10 05:46:42.541136: STARTING LOOP #19
+2018-12-10 05:46:43.699683: Moving to chop position
+2018-12-10 05:46:51.800695: Chopping started, now idling
+2018-12-10 05:47:02.227237: Tree is cut
+2018-12-10 05:47:11.921712: Chopping started, now idling
+2018-12-10 05:47:58.614415: Tree is cut
+2018-12-10 05:48:08.037938: Chopping started, now idling
+2018-12-10 05:48:20.593357: Inventory full 
+2018-12-10 05:48:21.995936: Depositing Inventory 
+2018-12-10 05:48:32.818429: Loops completed: 20
+2018-12-10 05:48:32.818482: Loop time: 110.277350903 seconds
+2018-12-10 05:48:32.818510: Oak Bot finished 
+
+2018-12-10 05:58:28.708544: Starting OakBot 
+2018-12-10 05:58:30.290063: Depositing Inventory 
+2018-12-10 05:58:36.151549: STARTING LOOP #0
+2018-12-10 05:58:37.182234: Moving to chop position
+2018-12-10 05:58:44.548177: Chopping started, now idling
+2018-12-10 05:59:04.631872: Tree is cut
+2018-12-10 05:59:14.988235: Chopping started, now idling
+2018-12-10 05:59:20.792240: Tree is cut
+2018-12-10 05:59:30.447448: Chopping started, now idling
+2018-12-10 05:59:38.218283: Tree is cut
+2018-12-10 05:59:48.129351: Chopping started, now idling
+2018-12-10 05:59:54.021715: Tree is cut
+2018-12-10 06:00:02.221921: Chopping started, now idling
+2018-12-10 06:00:33.822073: Inventory full 
+2018-12-10 06:00:35.396409: Depositing Inventory 
+2018-12-10 06:00:46.003238: Loops completed: 1
+2018-12-10 06:00:46.003267: Loop time: 129.851731062 seconds
+2018-12-10 06:00:46.003576: STARTING LOOP #1
+2018-12-10 06:00:46.959949: Moving to chop position
+2018-12-10 06:00:54.109659: Chopping started, now idling
+2018-12-10 06:00:56.975848: Tree is cut
+2018-12-10 06:01:06.826252: Chopping started, now idling
+2018-12-10 06:01:17.019834: Tree is cut
+2018-12-10 06:01:26.563386: Chopping started, now idling
+2018-12-10 06:01:42.208103: Tree is cut
+2018-12-10 06:01:50.446854: Chopping started, now idling
+2018-12-10 06:02:01.398460: Chopping started, now idling
+2018-12-10 06:02:03.424978: Chopping started, now idling
+2018-12-10 06:02:37.682150: Inventory full 
+2018-12-10 06:02:38.819476: Depositing Inventory 
+2018-12-10 06:02:49.957883: Loops completed: 2
+2018-12-10 06:02:49.957919: Loop time: 123.954349995 seconds
+2018-12-10 06:02:49.957936: STARTING LOOP #2
+2018-12-10 06:02:51.363390: Moving to chop position
+2018-12-10 06:02:58.796240: Chopping started, now idling
+2018-12-10 06:04:13.036261: Inventory full 
+2018-12-10 06:04:14.804711: Depositing Inventory 
+2018-12-10 06:04:25.131534: Loops completed: 3
+2018-12-10 06:04:25.131570: Loop time: 95.173637867 seconds
+2018-12-10 06:04:25.131585: STARTING LOOP #3
+2018-12-10 06:04:26.275287: Moving to chop position
+2018-12-10 06:04:33.784483: Chopping started, now idling
+2018-12-10 06:05:25.271822: Tree is cut
+2018-12-10 06:05:34.868486: Chopping started, now idling
+2018-12-10 06:05:48.557669: Tree is cut
+2018-12-10 06:05:57.301458: Chopping started, now idling
+2018-12-10 06:06:06.689760: Inventory full 
+2018-12-10 06:06:08.357460: Depositing Inventory 
+2018-12-10 06:06:19.150058: Loops completed: 4
+2018-12-10 06:06:19.150095: Loop time: 114.018514156 seconds
+2018-12-10 06:06:19.150113: STARTING LOOP #4
+2018-12-10 06:06:20.318745: Moving to chop position
+2018-12-10 06:06:27.366151: Chopping started, now idling
+2018-12-10 06:06:45.419400: Tree is cut
+2018-12-10 06:06:54.310397: Chopping started, now idling
+2018-12-10 06:07:09.175446: Tree is cut
+2018-12-10 06:07:18.993617: Chopping started, now idling
+2018-12-10 06:07:29.028050: Tree is cut
+2018-12-10 06:07:38.648914: Chopping started, now idling
+2018-12-10 06:07:53.981297: Tree is cut
+2018-12-10 06:08:03.092731: Chopping started, now idling
+2018-12-10 06:08:10.979502: Tree is cut
+2018-12-10 06:08:20.100434: Chopping started, now idling
+2018-12-10 06:08:27.648987: Inventory full 
+2018-12-10 06:08:29.449658: Depositing Inventory 
+2018-12-10 06:08:39.136879: Loops completed: 5
+2018-12-10 06:08:39.136915: Loop time: 139.986806154 seconds
+2018-12-10 06:08:39.136933: STARTING LOOP #5
+2018-12-10 06:08:39.996437: Moving to chop position
+2018-12-10 06:09:32.873688: Starting OakBot 
+2018-12-10 06:09:35.218790: STARTING LOOP #0
+2018-12-10 06:09:36.415354: Moving to chop position
+2018-12-10 06:09:44.136471: Chopping started, now idling
+2018-12-10 06:09:52.413169: Tree is cut
+2018-12-10 06:10:00.823158: Chopping started, now idling
+2018-12-10 06:10:49.825885: Tree is cut
+2018-12-10 06:10:59.195841: Chopping started, now idling
+2018-12-10 06:11:02.172837: Tree is cut
+2018-12-10 06:11:12.115757: Chopping started, now idling
+2018-12-10 06:11:22.718560: Inventory full 
+2018-12-10 06:11:24.312908: Depositing Inventory 
+2018-12-10 06:11:34.637774: Loops completed: 1
+2018-12-10 06:11:34.637813: Loop time: 119.419039011 seconds
+2018-12-10 06:11:34.637835: STARTING LOOP #1
+2018-12-10 06:11:35.998882: Moving to chop position
+2018-12-10 06:11:43.106814: Chopping started, now idling
+2018-12-10 06:11:49.126393: Tree is cut
+2018-12-10 06:11:58.416887: Chopping started, now idling
+2018-12-10 06:12:26.232580: Tree is cut
+2018-12-10 06:12:34.999699: Chopping started, now idling
+2018-12-10 06:12:45.772603: Tree is cut
+2018-12-10 06:12:55.786670: Chopping started, now idling
+2018-12-10 06:13:23.348365: Inventory full 
+2018-12-10 06:13:25.001363: Depositing Inventory 
+2018-12-10 06:13:35.151405: Loops completed: 2
+2018-12-10 06:13:35.151441: Loop time: 120.513609886 seconds
+2018-12-10 06:13:35.151458: STARTING LOOP #2
+2018-12-10 06:13:36.106977: Moving to chop position
+2018-12-10 06:13:44.272781: Chopping started, now idling
+2018-12-10 06:13:50.011671: Tree is cut
+2018-12-10 06:13:58.845966: Chopping started, now idling
+2018-12-10 06:14:31.175333: Tree is cut
+2018-12-10 06:14:40.960773: Chopping started, now idling
+2018-12-10 06:14:55.833076: Tree is cut
+2018-12-10 06:15:05.333133: Chopping started, now idling
+2018-12-10 06:15:13.039848: Tree is cut
+2018-12-10 06:15:22.909443: Chopping started, now idling
+2018-12-10 06:15:26.762996: Tree is cut
+2018-12-10 06:15:36.623318: Chopping started, now idling
+2018-12-10 06:15:44.362615: Inventory full 
+2018-12-10 06:15:45.817481: Depositing Inventory 
+2018-12-10 06:15:55.840689: Loops completed: 3
+2018-12-10 06:15:55.840732: Loop time: 140.689277887 seconds
+2018-12-10 06:15:55.840746: STARTING LOOP #3
+2018-12-10 06:15:57.133753: Moving to chop position
+2018-12-10 06:16:04.636128: Chopping started, now idling
+2018-12-10 06:16:31.654460: Tree is cut
+2018-12-10 06:16:41.420040: Chopping started, now idling
+2018-12-10 06:16:51.914929: Tree is cut
+2018-12-10 06:17:01.138737: Chopping started, now idling
+2018-12-10 06:17:23.683664: Tree is cut
+2018-12-10 06:17:33.319361: Chopping started, now idling
+2018-12-10 06:17:47.850899: Inventory full 
+2018-12-10 06:17:49.004253: Depositing Inventory 
+2018-12-10 06:17:59.499440: Loops completed: 4
+2018-12-10 06:17:59.499479: Loop time: 123.658736944 seconds
+2018-12-10 06:17:59.499496: STARTING LOOP #4
+2018-12-10 06:18:00.625057: Moving to chop position
+2018-12-10 06:18:08.112800: Chopping started, now idling
+2018-12-10 06:18:15.871323: Tree is cut
+2018-12-10 06:18:22.444324: Chopping started, now idling
+2018-12-10 06:18:23.323967: Tree is cut
+2018-12-10 06:18:24.656841: Chopping started, now idling
+2018-12-10 06:18:40.371478: Tree is cut
+2018-12-10 06:18:50.296802: Chopping started, now idling
+2018-12-10 06:19:02.829476: Tree is cut
+2018-12-10 06:19:12.050964: Chopping started, now idling
+2018-12-10 06:19:15.783442: Tree is cut
+2018-12-10 06:19:24.453760: Chopping started, now idling
+2018-12-10 06:19:56.368266: Tree is cut
+2018-12-10 06:20:05.327489: Chopping started, now idling
+2018-12-10 06:20:10.804478: Inventory full 
+2018-12-10 06:20:12.567393: Depositing Inventory 
+2018-12-10 06:20:22.176943: Loops completed: 5
+2018-12-10 06:20:22.176986: Loop time: 142.677495003 seconds
+2018-12-10 06:20:22.177005: STARTING LOOP #5
+2018-12-10 06:20:23.446875: Moving to chop position
+2018-12-10 06:20:30.610726: Chopping started, now idling
+2018-12-10 06:20:39.430515: Tree is cut
+2018-12-10 06:20:47.942035: Chopping started, now idling
+2018-12-10 06:21:44.453231: Tree is cut
+2018-12-10 06:21:53.660803: Chopping sta2018-12-10 16:25:59.714653: Starting OakBot 
+2018-12-10 16:26:02.076091: STARTING LOOP #0
+2018-12-10 16:26:03.058115: Moving to chop position
+2018-12-10 16:26:10.915898: Chopping started, now idling
+2018-12-10 16:26:26.295383: Tree is cut
+2018-12-10 16:26:35.613318: Chopping started, now idling
+2018-12-10 16:26:52.861982: Inventory full 
+2018-12-10 16:26:55.206386: Depositing Inventory 
+2018-12-10 16:28:35.561300: Starting OakBot 
+2018-12-10 16:28:37.636220: Depositing Inventory 
+2018-12-10 16:28:43.281105: STARTING LOOP #0
+2018-12-10 16:28:44.064354: Moving to chop position
+2018-12-10 16:28:51.775585: Chopping started, now idling
+2018-12-10 16:29:07.104232: Tree is cut
+2018-12-10 16:29:16.768941: Chopping started, now idling
+2018-12-10 16:29:51.634741: Tree is cut
+2018-12-10 16:30:00.896232: Chopping started, now idling
+2018-12-10 16:30:11.737286: Tree is cut
+2018-12-10 16:30:20.304260: Chopping started, now idling
+2018-12-10 16:30:28.126293: Tree is cut
+2018-12-10 16:30:37.739578: Chopping started, now idling
+2018-12-10 16:30:43.528932: Inventory full 
+2018-12-10 16:30:44.993298: Depositing Inventory 
+2018-12-10 16:30:54.944862: Loops completed: 1
+2018-12-10 16:30:54.944893: Loop time: 131.663800001 seconds
+2018-12-10 16:30:54.946857: STARTING LOOP #1
+2018-12-10 16:30:55.881358: Moving to chop position
+2018-12-10 16:31:03.343374: Chopping started, now idling
+2018-12-10 16:31:19.106862: Tree is cut
+2018-12-10 16:31:28.619881: Chopping started, now idling
+2018-12-10 16:31:48.957186: Tree is cut
+2018-12-10 16:31:58.752428: Chopping started, now idling
+2018-12-10 16:32:09.511619: Tree is cut
+2018-12-10 16:32:18.455957: Chopping started, now idling
+2018-12-10 16:32:26.205242: Tree is cut
+2018-12-10 16:32:35.972565: Chopping started, now idling
+2018-12-10 16:32:55.671863: Inventory full 
+2018-12-10 16:32:56.989849: Depositing Inventory 
+2018-12-10 16:33:07.448326: Loops completed: 2
+2018-12-10 16:33:07.448365: Loop time: 132.501516819 seconds
+2018-12-10 16:33:07.448391: STARTING LOOP #2
+2018-12-10 16:33:08.453126: Moving to chop position
+2018-12-10 16:33:15.965311: Chopping started, now idling
+2018-12-10 16:34:08.014027: Tree is cut
+2018-12-10 16:34:17.693487: Chopping started, now idling
+2018-12-10 16:34:21.506505: Tree is cut
+2018-12-10 16:34:30.764270: Chopping started, now idling
+2018-12-10 16:34:38.516830: Tree is cut
+2018-12-10 16:34:47.715013: Chopping started, now idling
+2018-12-10 16:35:00.244904: Inventory full 
+2018-12-10 16:35:02.200544: Depositing Inventory 
+2018-12-10 16:35:12.134298: Loops completed: 3
+2018-12-10 16:35:12.134334: Loop time: 124.685948849 seconds
+2018-12-10 16:35:12.134402: STARTING LOOP #3
+2018-12-10 16:35:13.393375: Moving to chop position
+2018-12-10 16:35:21.068313: Chopping started, now idling
+2018-12-10 16:35:45.681977: Tree is cut
+2018-12-10 16:35:55.383683: Chopping started, now idling
+2018-12-10 16:36:42.039550: Inventory full 
+2018-12-10 16:36:43.608505: Depositing Inventory 
+2018-12-10 16:36:53.068819: Loops completed: 4
+2018-12-10 16:36:53.068848: Loop time: 100.934449911 seconds
+2018-12-10 16:36:53.068862: STARTING LOOP #4
+2018-12-10 16:36:54.227209: Moving to chop position
+2018-12-10 16:37:01.421040: Chopping started, now idling
+2018-12-10 16:37:09.777914: Tree is cut
+2018-12-10 16:37:19.562227: Chopping started, now idling
+2018-12-10 16:37:42.472398: Tree is cut
+2018-12-10 16:37:51.804718: Chopping started, now idling
+2018-12-10 16:38:04.683190: Tree is cut
+2018-12-10 16:38:14.772613: Chopping started, now idling
+2018-12-10 16:38:41.892328: Inventory full 
+2018-12-10 16:38:43.618069: Depositing Inventory 
+2018-12-10 16:38:53.990900: Loops completed: 5
+2018-12-10 16:38:53.990939: Loop time: 120.922080994 seconds
+2018-12-10 16:38:53.990962: STARTING LOOP #5
+2018-12-10 16:38:54.789086: Moving to chop position
+2018-12-10 16:39:02.598856: Chopping started, now idling
+2018-12-10 16:40:04.481642: Tree is cut
+2018-12-10 16:40:14.391155: Chopping started, now idling
+2018-12-10 16:40:20.235193: Tree is cut
+2018-12-10 16:40:29.754396: Chopping started, now idling
+2018-12-10 16:40:32.291433: Inventory full 
+2018-12-10 16:40:33.602104: Depositing Inventory 
+2018-12-10 16:40:44.312171: Loops completed: 6
+2018-12-10 16:40:44.312203: Loop time: 110.321244001 seconds
+2018-12-10 16:40:44.312218: STARTING LOOP #6
+2018-12-10 16:40:45.328806: Moving to chop position
+2018-12-10 16:40:52.745713: Chopping started, now idling
+2018-12-10 16:40:58.572352: Tree is cut
+2018-12-10 16:41:08.212663: Chopping started, now idling
+2018-12-10 16:41:25.993175: Tree is cut
+2018-12-10 16:41:35.551270: Chopping started, now idling
+2018-12-10 16:41:43.617431: Tree is cut
+2018-12-10 16:41:53.417726: Chopping started, now idling
+2018-12-10 16:42:11.317437: Tree is cut
+2018-12-10 16:42:20.686127: Chopping started, now idling
+2018-12-10 16:42:47.797920: Inventory full 
+2018-12-10 16:42:49.503102: Depositing Inventory 
+2018-12-10 16:42:59.399114: Loops completed: 7
+2018-12-10 16:42:59.399153: Loop time: 135.086939096 seconds
+2018-12-10 16:42:59.399172: STARTING LOOP #7
+2018-12-10 16:43:00.420821: Moving to chop position
+2018-12-10 16:43:07.405252: Chopping started, now idling
+2018-12-10 16:43:47.111441: Tree is cut
+2018-12-10 16:43:55.677208: Chopping started, now idling
+2018-12-10 16:44:04.069870: Tree is cut
+2018-12-10 16:44:13.800657: Chopping started, now idling
+2018-12-10 16:44:21.919317: Tree is cut
+2018-12-10 16:44:31.793887: Chopping started, now idling
+2018-12-10 16:44:41.665488: Tree is cut
+2018-12-10 16:44:51.180409: Chopping started, now idling
+2018-12-10 16:44:56.749372: Inventory full 
+2018-12-10 16:44:58.597655: Depositing Inventory 
+2018-12-10 16:45:08.685337: Loops completed: 8
+2018-12-10 16:45:08.685373: Loop time: 129.286204815 seconds
+2018-12-10 16:45:08.685391: STARTING LOOP #8
+2018-12-10 16:45:10.107922: Moving to chop position
+2018-12-10 16:45:17.782157: Chopping started, now idling
+2018-12-10 16:45:26.123062: Tree is cut
+2018-12-10 16:45:35.920479: Chopping started, now idling
+2018-12-10 16:45:51.779431: Tree is cut
+2018-12-10 16:46:00.316585: Chopping started, now idling
+2018-12-10 16:46:04.218889: Tree is cut
+2018-12-10 16:46:13.676879: Chopping started, now idling
+2018-12-10 16:46:16.813622: Tree is cut
+2018-12-10 16:46:26.160372: Chopping started, now idling
+2018-12-10 16:46:33.971208: Tree is cut
+2018-12-10 16:46:43.552537: Chopping started, now idling
+2018-12-10 16:46:56.175145: Tree is cut
+2018-12-10 16:47:05.852625: Chopping started, now idling
+2018-12-10 16:47:09.744493: Tree is cut
+2018-12-10 16:47:19.172191: Chopping started, now idling
+2018-12-10 16:47:27.036406: Tree is cut
+2018-12-10 16:47:36.988065: Chopping started, now idling
+2018-12-10 16:47:41.871655: Tree is cut
+2018-12-10 16:47:51.602823: Chopping started, now idling
+2018-12-10 16:48:04.444788: Inventory full 
+2018-12-10 16:48:06.364530: Depositing Inventory 
+2018-12-10 16:48:15.937407: Loops completed: 9
+2018-12-10 16:48:15.937436: Loop time: 187.252048969 seconds
+2018-12-10 16:48:15.937450: STARTING LOOP #9
+2018-12-10 16:48:17.316805: Moving to chop position
+2018-12-10 16:48:25.043620: Chopping started, now idling
+2018-12-10 16:48:50.091624: Tree is cut
+2018-12-10 16:48:58.580728: Chopping started, now idling
+2018-12-10 16:49:25.820881: Tree is cut
+2018-12-10 16:49:34.831021: Chopping started, now idling
+2018-12-10 16:50:01.393042: Inventory full 
+2018-12-10 16:50:02.953117: Depositing Inventory 
+2018-12-10 16:50:13.455371: Loops completed: 10
+2018-12-10 16:50:13.455407: Loop time: 117.517961025 seconds
+2018-12-10 16:50:13.455425: STARTING LOOP #10
+2018-12-10 16:50:14.109131: Moving to chop position
+2018-12-10 16:50:21.809851: Chopping started, now idling
+2018-12-10 16:50:27.683537: Tree is cut
+2018-12-10 16:50:36.682557: Chopping started, now idling
+2018-12-10 16:50:38.627130: Tree is cut
+2018-12-10 16:50:48.578277: Chopping started, now idling
+2018-12-10 16:51:03.484378: Tree is cut
+2018-12-10 16:51:13.258489: Chopping started, now idling
+2018-12-10 16:51:38.906881: Tree is cut
+2018-12-10 16:51:47.700475: Chopping started, now idling
+2018-12-10 16:51:51.586570: Tree is cut
+2018-12-10 16:52:00.906727: Chopping started, now idling
+2018-12-10 16:52:22.752128: Inventory full 
+2018-12-10 16:52:24.417672: Depositing Inventory 
+2018-12-10 16:52:34.037867: Loops completed: 11
+2018-12-10 16:52:34.037904: Loop time: 140.582482815 seconds
+2018-12-10 16:52:34.037922: STARTING LOOP #11
+2018-12-10 16:52:35.084017: Moving to chop position
+2018-12-10 16:52:42.279079: Chopping started, now idling
+2018-12-10 16:52:55.221387: Tree is cut
+2018-12-10 16:53:04.992899: Chopping started, now idling
+2018-12-10 16:53:49.893595: Tree is cut
+2018-12-10 16:53:58.232055: Chopping started, now idling
+2018-12-10 16:54:13.197560: Inventory full 
+2018-12-10 16:54:14.513941: Depositing Inventory 
+2018-12-10 16:54:24.107711: Loops completed: 12
+2018-12-10 16:54:24.107748: Loop time: 110.069831133 seconds
+2018-12-10 16:54:24.107767: STARTING LOOP #12
+2018-12-10 16:54:25.110542: Moving to chop position
+2018-12-10 16:54:32.407180: Chopping started, now idling
+2018-12-10 16:55:00.174496: Tree is cut
+2018-12-10 16:55:10.075202: Chopping started, now idling
+2018-12-10 16:55:12.839886: Tree is cut
+2018-12-10 16:55:22.903222: Chopping started, now idling
+2018-12-10 16:55:35.998740: Tree is cut
+2018-12-10 16:55:45.896969: Chopping started, now idling
+2018-12-10 16:56:13.783231: Tree is cut
+2018-12-10 16:56:22.543357: Chopping started, now idling
+2018-12-10 16:56:25.366542: Inventory full 
+2018-12-10 16:56:26.782056: Depositing Inventory 
+2018-12-10 16:56:36.861566: Loops completed: 13
+2018-12-10 16:56:36.861606: Loop time: 132.753844023 seconds
+2018-12-10 16:56:36.861625: STARTING LOOP #13
+2018-12-10 16:56:38.020288: Moving to chop position
+2018-12-10 16:56:45.253309: Chopping started, now idling
+2018-12-10 16:56:51.442892: Tree is cut
+2018-12-10 16:57:00.439358: Chopping started, now idling
+2018-12-10 16:57:03.329801: Tree is cut
+2018-12-10 16:57:12.861013: Chopping started, now idling
+2018-12-10 16:57:28.429799: Tree is cut
+2018-12-10 16:57:38.083114: Chopping started, now idling
+2018-12-10 16:58:13.326042: Tree is cut
+2018-12-10 16:58:22.810944: Chopping started, now idling
+2018-12-10 16:58:35.327524: Inventory full 
+2018-12-10 16:58:37.225447: Depositing Inventory 
+2018-12-10 16:58:47.049477: Loops completed: 14
+2018-12-10 16:58:47.049541: Loop time: 130.187921047 seconds
+2018-12-10 16:58:47.049562: STARTING LOOP #14
+2018-12-10 16:58:48.453783: Moving to chop position
+2018-12-10 16:58:55.891250: Chopping started, now idling
+2018-12-10 16:59:13.626386: Tree is cut
+2018-12-10 16:59:23.050764: Chopping started, now idling
+2018-12-10 17:00:09.080208: Tree is cut
+2018-12-10 17:00:18.942075: Chopping started, now idling
+2018-12-10 17:00:27.475821: Inventory full 
+2018-12-10 17:00:29.124338: Depositing Inventory 
+2018-12-10 17:00:39.537740: Loops completed: 15
+2018-12-10 17:00:39.537783: Loop time: 112.488234043 seconds
+2018-12-10 17:00:39.537825: STARTING LOOP #15
+2018-12-10 17:00:40.415137: Moving to chop position
+2018-12-10 17:00:48.473168: Chopping started, now idling
+2018-12-10 17:00:58.323649: Tree is cut
+2018-12-10 17:01:07.790328: Chopping started, now idling
+2018-12-10 17:01:09.682756: Tree is cut
+2018-12-10 17:01:19.465539: Chopping started, now idling
+2018-12-10 17:01:25.384748: Tree is cut
+2018-12-10 17:01:34.844858: Chopping started, now idling
+2018-12-10 17:01:48.982702: Tree is cut
+2018-12-10 17:01:57.752353: Chopping started, now idling
+2018-12-10 17:02:22.374082: Tree is cut
+2018-12-10 17:02:32.494561: Chopping started, now idling
+2018-12-10 17:02:49.803287: Inventory full 
+2018-12-10 17:02:51.463334: Depositing Inventory 
+2018-12-10 17:03:01.713813: Loops completed: 16
+2018-12-10 17:03:01.713849: Loop time: 142.176028967 seconds
+2018-12-10 17:03:01.713866: STARTING LOOP #16
+2018-12-10 17:03:02.678124: Moving to chop position
+2018-12-10 17:03:10.212285: Chopping started, now idling
+2018-12-10 17:03:21.003775: Tree is cut
+2018-12-10 17:03:30.003728: Chopping started, now idling
+2018-12-10 17:03:40.266895: Tree is cut
+2018-12-10 17:03:50.006857: Chopping started, now idling
+2018-12-10 17:03:52.894543: Tree is cut
+2018-12-10 17:04:02.366409: Chopping started, now idling
+2018-12-10 17:04:07.465311: Tree is cut
+2018-12-10 17:04:16.702639: Chopping started, now idling
+2018-12-10 17:04:19.585359: Tree is cut
+2018-12-10 17:04:28.415939: Chopping started, now idling
+2018-12-10 17:04:31.240921: Tree is cut
+2018-12-10 17:04:41.111747: Chopping started, now idling
+2018-12-10 17:05:10.274424: Tree is cut
+2018-12-10 17:05:19.757848: Chopping started, now idling
+2018-12-10 17:05:25.652088: Tree is cut
+2018-12-10 17:05:34.992616: Chopping started, now idling
+2018-12-10 17:05:44.811896: Inventory full 
+2018-12-10 17:05:46.471911: Depositing Inventory 
+2018-12-10 17:05:56.490812: Loops completed: 17
+2018-12-10 17:05:56.490850: Loop time: 174.776988983 seconds
+2018-12-10 17:05:56.490870: STARTING LOOP #17
+2018-12-10 17:05:57.184559: Moving to chop position
+2018-12-10 17:06:04.494876: Chopping started, now idling
+2018-12-10 17:06:10.289793: Tree is cut
+2018-12-10 17:06:19.372323: Chopping started, now idling
+2018-12-10 17:06:45.132356: Tree is cut
+2018-12-10 17:06:54.108201: Chopping started, now idling
+2018-12-10 17:07:12.276222: Tree is cut
+2018-12-10 17:07:22.062877: Chopping started, now idling
+2018-12-10 17:07:37.947365: Tree is cut
+2018-12-10 17:07:46.345461: Chopping started, now idling
+2018-12-10 17:07:54.761804: Inventory full 
+2018-12-10 17:07:56.525990: Depositing Inventory 
+2018-12-10 17:08:07.296403: Loops completed: 18
+2018-12-10 17:08:07.296460: Loop time: 130.805598021 seconds
+2018-12-10 17:08:07.296485: STARTING LOOP #18
+2018-12-10 17:08:08.241060: Moving to chop position
+2018-12-10 17:08:15.509708: Chopping started, now idling
+2018-12-10 17:08:17.389072: Tree is cut
+2018-12-10 17:08:26.747460: Chopping started, now idling
+2018-12-10 17:09:11.896660: Tree is cut
+2018-12-10 17:09:21.100123: Chopping started, now idling
+2018-12-10 17:09:31.487882: Tree is cut
+2018-12-10 17:09:40.702192: Chopping started, now idling
+2018-12-10 17:09:43.599747: Tree is cut
+2018-12-10 17:09:48.327774: Chopping started, now idling
+2018-12-10 17:09:49.198616: Tree is cut
+2018-12-10 17:09:53.019786: Chopping started, now idling
+2018-12-10 17:10:05.323413: Inventory full 
+2018-12-10 17:10:07.030295: Depositing Inventory 
+2018-12-10 17:10:16.517763: Loops completed: 19
+2018-12-10 17:10:16.517813: Loop time: 129.221333981 seconds
+2018-12-10 17:10:16.517847: STARTING LOOP #19
+2018-12-10 17:10:17.511703: Moving to chop position
+2018-12-10 17:10:24.870884: Chopping started, now idling
+2018-12-10 17:10:38.447035: Tree is cut
+2018-12-10 17:10:47.700013: Chopping started, now idling
+2018-12-10 17:10:58.390435: Tree is cut
+2018-12-10 17:11:07.735810: Chopping started, now idling
+2018-12-10 17:11:20.035552: Tree is cut
+2018-12-10 17:11:29.268786: Chopping started, now idling
+2018-12-10 17:11:48.239511: Tree is cut
+2018-12-10 17:11:57.056711: Chopping started, now idling
+2018-12-10 17:12:02.302061: Tree is cut
+2018-12-10 17:12:12.460918: Chopping started, now idling
+2018-12-10 17:12:25.322737: Inventory full 
+2018-12-10 17:12:26.502946: Depositing Inventory 

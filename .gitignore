@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -107,5 +108,5 @@ venv.bak/
 .txt
 
 # screenshots
-screen.txt
-temp.txt
+screen.png
+temp.png

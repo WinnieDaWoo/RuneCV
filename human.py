@@ -14,6 +14,7 @@ inventory_button = (1115, 865, 20, 30)
 last_slot = (1380, 820, 40, 30)
 
 
+
 class Human(object):
     """Class encapulates all bots in order to make them look as human as possible"""
     def random_wait(self, min=0.25, max=0.50):
@@ -46,6 +47,29 @@ class Human(object):
 
         return
 
+    def drop_items(self, locations):
+        """Moves cursor to random locaction still above the object and clicks"""
+        pag.keyDown('shift')
+        for i in locations:
+            self.move_within(i)
+            self.random_wait(0.05, 0.5)
+            pag.click()
+        pag.keyUp('shift')
+        self.random_wait(0.05, 0.5)
+        # self.move_within((0, 0, 1439, 899))
+
+        return
+
+    def right_click_within(self, location):
+        """Moves cursor to random locaction still above the object and clicks"""
+        self.move_within(location)
+        self.random_wait(0.05, 0.5)
+        pag.click(button='right')
+        self.random_wait(0.05, 0.5)
+        # self.move_within((0, 0, 1439, 899))
+
+        return
+
     # def keyboardtype(self, string):
     #     while
     #     randint(location[0], location[0]+location[2])
@@ -60,23 +84,33 @@ class Human(object):
         template = cv2.imread(img)
 
         res = cv2.matchTemplate(screen, template, cv2.TM_CCOEFF_NORMED)
-        print("image results: {}".format(res))
         # threshold = .70
         loc = np.where(res >= threshold)
+        print("image results: {}".format(loc))
         if len(loc[0]) > 0:
             return True
 
         return False
 
-    def locate_object(self, img, threshold = 0.80):
-        screen = Image.open('triggers/screen.png')
-        template = cv2.imread(img)
-        res = cv2.matchTemplate(screen, template, cv2.TM_CCOEFF_NORMED)
-        loc = np.where(res >= threshold)
-        for pt in zip(*loc[::-1]):
-            cv2.rectangle(screen, pt, (pt[0] + w, pt[1] + h), (0,255,255), 2)
+    def locate_object(self, r, img, threshold = 0.80):
+        original = Image.open('triggers/screen.png')
+        cropped = original.crop((r[0]*2, r[1]*2, (r[0]+r[2])*2, (r[1]+r[3])*2))
+        cropped.save('triggers/temp.png')
 
-        cv2.imshow('Detected',screen) 
+        screen = cv2.imread('triggers/temp.png')
+
+        template = cv2.imread(img)
+        h, w, channels = template.shape
+        temp = cv2.matchTemplate(screen, template, cv2.TM_CCOEFF_NORMED)
+        loc = np.where(temp >= threshold)
+        res = []
+        for pt in zip(*loc[::-1]):
+            # cv2.rectangle(screen, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
+            res.append((pt[0]/2, pt[1]/2, w/2, h/2))
+
+        # cv2.imshow('Detected',screen)
+        # cv2.waitKey(2)
+        return res
 
 
     def match_timeout(self, r, img, seconds, threshold = 0.80):
@@ -88,14 +122,14 @@ class Human(object):
                 print("image match timeout after {} seconds".format(seconds))
                 sys.exit()
             next = self.image_match(r, img, threshold)
-        self.random_wait(0.5, 1)
+        # self.random_wait(0.25, 0.5)
         return
 
     def idle(self):
         option = randint(0, 99)
-        if option < 80:
-            return self.random_wait(0.25, 0.5)
-        elif option < 90:
+        if option < 90:
+            return time.sleep(0.1)
+        elif option < 95:
             self.move_within((320, 165, 600, 400))
         else:
             self.move_within((320, 165, 600, 400))

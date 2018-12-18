@@ -1,3 +1,20 @@
+#!/usr/bin/env python
+
+"""
+
+
+Loop time: ~2.5 minutes
+GP Earnings: ~650 oak logs (~30k/hr @ 45gp/log)
+EXP Earnings: ~24,375 woodcutting exp
+
+HOW TO RUN:
+    Start at Draynor village bank, northern most booth
+    Equip axe
+    Close inventory
+    Run bot
+"""
+
+
 import math
 from random import randint, uniform
 import sys
@@ -10,6 +27,17 @@ import numpy as np
 # import cv2
 
 from human import Human
+
+
+__author__ = "Adam Woo"
+__copyright__ = "None"
+__credits__ = ["Adam Woo"]
+__license__ = "None"
+__version__ = "1.0.0"
+__maintainer__ = "Adam Woo"
+__email__ = "None"
+__status__ = "Development"
+
 
 bank_desk = (615, 470, 32, 50)
 bank_wall = (320, 440, 45, 60)
@@ -26,16 +54,6 @@ level_up = (20, 750, 70, 110)
 file = open("logs/oakbot.txt", "a")
 
 class OakBot(Human):
-    """
-    Loop time: ~2.5 minutes
-    GP Earnings: ~650 oak logs (~30k/hr @ 45gp/log)
-    EXP Earnings: ~24,375 woodcutting exp
-
-    Start at Draynor vilage bank, northern most booth
-    Equip axe
-    Close inventory
-    Run bot
-    """
     def is_tree_cut(self):
         template = 'triggers/oakbot/oak_cut.png'
         # pag.screenshot('triggers/screen.png')
@@ -101,10 +119,11 @@ class OakBot(Human):
                 if Human.image_match(self, level_up, template):
                     chopping = False
 
-                if chopping == True and self.is_tree_cut() == True:
+                is_cut = self.is_tree_cut()
+                if chopping == True and is_cut == True:
                     chopping = False
                     file.write("{}: Tree is cut\n".format(dt.datetime.now()))
-                elif chopping == False and self.is_tree_cut() == False:
+                elif chopping == False and is_cut == False:
                     Human.click_within(self, oak_position)
                     chopping = True
                     file.write("{}: Chopping started, now idling\n".format(dt.datetime.now()))
