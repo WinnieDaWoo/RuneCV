@@ -10,9 +10,6 @@ import numpy as np
 
 from human import Human
 
-username = "getallto99@protonmail.com"
-password = "light111"
-
 welcome_screen = (640, 400, 160, 40)
 world_select = (350, 650, 90, 20)
 posible_worlds = (820, 400 + (10 * randint(0,5)), 70, 10)
