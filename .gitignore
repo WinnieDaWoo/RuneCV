@@ -110,3 +110,5 @@ venv.bak/
 # screenshots
 screen.png
 temp.png
+
+*.DS_Store
