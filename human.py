@@ -9,9 +9,10 @@ import pyautogui as pag
 import numpy as np
 import cv2
 
-inventory = (1236, 589, 204, 275)
+inventory = (1200, 589, 204, 275)
 inventory_button = (1115, 865, 20, 30)
-last_slot = (1380, 820, 40, 30)
+last_slot = (1349, 820, 40, 30)
+fullscreen = (0, 0, 1499, 899)
 
 
 
@@ -40,9 +41,9 @@ class Human(object):
     def click_within(self, location):
         """Moves cursor to random locaction still above the object and clicks"""
         self.move_within(location)
-        self.random_wait(0.05, 0.5)
+        self.random_wait(0.05, 0.25)
         pag.click()
-        self.random_wait(0.05, 0.5)
+        self.random_wait(0.05, 0.25)
         # self.move_within((0, 0, 1439, 899))
 
         return
@@ -50,12 +51,13 @@ class Human(object):
     def drop_items(self, locations):
         """Moves cursor to random locaction still above the object and clicks"""
         pag.keyDown('shift')
+        self.random_wait(0.05, 0.25)
         for i in locations:
             self.move_within(i)
-            self.random_wait(0.05, 0.5)
+            self.random_wait(0.05, 0.25)
             pag.click()
         pag.keyUp('shift')
-        self.random_wait(0.05, 0.5)
+        self.random_wait(0.05, 0.25)
         # self.move_within((0, 0, 1439, 899))
 
         return
@@ -65,7 +67,7 @@ class Human(object):
         self.move_within(location)
         self.random_wait(0.05, 0.5)
         pag.click(button='right')
-        self.random_wait(0.05, 0.5)
+        self.random_wait(0.05, 0.25)
         # self.move_within((0, 0, 1439, 899))
 
         return
@@ -76,11 +78,15 @@ class Human(object):
     #     return
 
     def image_match(self, r, img, threshold = 0.80):
-        original = Image.open('triggers/screen.png')
-        cropped = original.crop((r[0]*2, r[1]*2, (r[0]+r[2])*2, (r[1]+r[3])*2))
-        cropped.save('triggers/temp.png')
+        if r != fullscreen:
+            original = Image.open('triggers/screen.png')
+            temp = (r[0]*2, r[1]*2, (r[0]+r[2])*2, (r[1]+r[3])*2)
+            cropped = original.crop(temp)
+            cropped.save('triggers/temp.png')
+            screen = cv2.imread('triggers/temp.png')
+        else:
+            screen = cv2.imread('triggers/screen.png')
 
-        screen = cv2.imread('triggers/temp.png')
         template = cv2.imread(img)
 
         res = cv2.matchTemplate(screen, template, cv2.TM_CCOEFF_NORMED)
@@ -93,11 +99,14 @@ class Human(object):
         return False
 
     def locate_object(self, r, img, threshold = 0.80):
-        original = Image.open('triggers/screen.png')
-        cropped = original.crop((r[0]*2, r[1]*2, (r[0]+r[2])*2, (r[1]+r[3])*2))
-        cropped.save('triggers/temp.png')
-
-        screen = cv2.imread('triggers/temp.png')
+        if r != fullscreen:
+            original = Image.open('triggers/screen.png')
+            temp = (r[0]*2, r[1]*2, (r[0]+r[2])*2, (r[1]+r[3])*2)
+            cropped = original.crop(temp)
+            cropped.save('triggers/temp.png')
+            screen = cv2.imread('triggers/temp.png')
+        else:
+            screen = cv2.imread('triggers/screen.png')
 
         template = cv2.imread(img)
         h, w, channels = template.shape
@@ -115,7 +124,7 @@ class Human(object):
 
     def match_timeout(self, r, img, seconds, threshold = 0.80):
         next = False;
-        timeout = time.time() + seconds   # 1 minutes from now
+        timeout = time.time() + seconds
         while  next == False:
             pag.screenshot('triggers/screen.png')
             if time.time() > timeout:
@@ -147,10 +156,11 @@ class Human(object):
 
     def is_inventory_full(self):
         # self.click_within(inventory_button)
-        print("is inventory full")
         trigger = 'triggers/game/last_slot_empty.png'
         threshold = 0.80
         if self.image_match(last_slot, trigger, threshold):
+            print("inventory is not full")
             return False
 
+        print("inventory is full")
         return True

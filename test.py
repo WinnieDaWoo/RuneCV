@@ -13,6 +13,8 @@ from human import Human
 # from ironbot import IronBot'
 # from loginbot import LoginBot
 # from oakbot import OakBot
+from swordfishbot import SwordfishBot
+
 
 fullscreen = (0, 0, 1499, 899)
 fishing_area = (399, 199, 700, 500)
@@ -25,19 +27,9 @@ if __name__ == '__main__':
     try:
         time.sleep(2)
         start = time.time()
-        pag.screenshot('triggers/screen.png')
-        area = inventory
-        template = 'triggers/swordfishbot/tuna_raw.png'
-        loc = Human().locate_object(area, template, 0.9)
-        if len(loc)==0:
-            print("no tuna in inventory")
-            sys.exit()
-
-
-        for i in loc:
-            item = (i[0]+area[0], i[1]+area[1], i[2], i[3])
-            print(item)
-            Human().shift_click_within(item)
+        # pag.screenshot('triggers/screen.png')
+        # print(inventory*2)
+        SwordfishBot().is_fishing()
 
     except KeyboardInterrupt:
         sys.exit()

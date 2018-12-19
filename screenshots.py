@@ -25,8 +25,8 @@ mine_to_bank = [
 
 region=(930,455,190,260)
 
-inventory = (1236, 589, 204, 275)
-last_slot = (1380, 820, 40, 30)
+inventory = (1200, 589, 204, 275)
+last_slot = (1349, 820, 40, 30)
 welcome_screen = (640, 400, 160, 40)
 click_to_play = (610, 450, 220, 80)
 bank_desk = (615, 470, 32, 50)
@@ -36,15 +36,15 @@ bank_wall = (320, 440, 45, 60)
 
 
 if __name__ == '__main__':
-    x = bank_wall[0]*2
-    y = bank_wall[1]*2
-    w = bank_wall[2]*2
-    h = bank_wall[3]*2
+    x = last_slot[0]*2
+    y = last_slot[1]*2
+    w = last_slot[2]*2
+    h = last_slot[3]*2
 
     print(pag.size())
     time.sleep(2)
-    pag.screenshot('triggers/oakbot/bank_wall.png')
+    pag.screenshot('triggers/game/last_slot_empty.png')
 
-    original = Image.open('triggers/oakbot/bank_wall.png')
+    original = Image.open('triggers/game/last_slot_empty.png')
     cropped_example = original.crop((x, y, x+w, y+h))
-    cropped_example.save('triggers/oakbot/bank_wall.png')
+    cropped_example.save('triggers/game/last_slot_empty.png')

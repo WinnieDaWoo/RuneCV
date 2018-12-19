@@ -111,4 +111,4 @@ venv.bak/
 screen.png
 temp.png
 
-*.DS_Store
+.DS_Store
