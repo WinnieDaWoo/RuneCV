@@ -13,6 +13,10 @@ inventory = (1200, 589, 204, 275)
 inventory_button = (1115, 865, 20, 30)
 last_slot = (1349, 820, 40, 30)
 fullscreen = (0, 0, 1499, 899)
+idle_area = (250, 100, 900, 150)
+logout1 = (1380, 50, 15, 15)
+logout2 = (1235, 810, 135, 30)
+
 
 
 
@@ -48,17 +52,29 @@ class Human(object):
 
         return
 
-    def drop_items(self, locations):
-        """Moves cursor to random locaction still above the object and clicks"""
+    def drop_items(self, template):
+        pag.screenshot('triggers/screen.png')
+        area = inventory
+        loc = Human.locate_object(self, area, template, 0.9)
+        if len(loc)==0:
+            print("no tuna in inventory")
+            return
+
+        items = []
+        for i in loc:
+            items.append( (i[0]+area[0], i[1]+area[1], i[2], i[3]) )
+
         pag.keyDown('shift')
         self.random_wait(0.05, 0.25)
-        for i in locations:
+        for i in items:
             self.move_within(i)
             self.random_wait(0.05, 0.25)
             pag.click()
         pag.keyUp('shift')
         self.random_wait(0.05, 0.25)
         # self.move_within((0, 0, 1439, 899))
+        Human.random_wait(self, 0.5, 1)
+        pag.screenshot('triggers/screen.png')
 
         return
 
@@ -92,7 +108,6 @@ class Human(object):
         res = cv2.matchTemplate(screen, template, cv2.TM_CCOEFF_NORMED)
         # threshold = .70
         loc = np.where(res >= threshold)
-        print("image results: {}".format(loc))
         if len(loc[0]) > 0:
             return True
 
@@ -135,13 +150,13 @@ class Human(object):
         return
 
     def idle(self):
-        option = randint(0, 99)
-        if option < 90:
+        option = randint(0, 999)
+        if option < 900:
             return time.sleep(0.1)
-        elif option < 95:
-            self.move_within((320, 165, 600, 400))
+        elif option < 980:
+            self.move_within(idle_area)
         else:
-            self.move_within((320, 165, 600, 400))
+            self.move_within(idle_area)
             pag.click(button='right')
 
     def is_inventory_empty(self):
@@ -164,3 +179,10 @@ class Human(object):
 
         print("inventory is full")
         return True
+
+    def logout(self):
+        self.click_within(logout1)
+        self.random_wait(0.25, 0.5)
+        self.click_within(logout2)
+
+        return
